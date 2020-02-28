@@ -1,0 +1,15 @@
+// yellow, orange, red, pink, purple, teal, blue, aqua, green, brown
+// with ranges {color}[1-4] with 1 being brightest/vibrant and 4 being darker@import './colors.scss';
+@import "./colors.scss";
+
+// MAX: xs, s, m ,n,
+// MIN: l, xl
+// ex: @breakpoint('xs'){ /* styles */ }
+@import "./breakpoints.scss";
+
+/////////
+@import "./typography.scss";
+
+/*
+ * Base styles
+ */
